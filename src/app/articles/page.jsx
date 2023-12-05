@@ -44,9 +44,10 @@ export default async function ArticlesIndex() {
           <Image src={Adventure} alt="Adventure" className="rounded-lg" />
         </div>
         <div className="md:flex-1">
-          <h1 className="text-3xl font-bold">Guess what? This is where all my super cool stories go!</h1>
+          <h1 className="text-3xl font-bold">Guess what? Im going to tell you all about my fun stories and adventures!</h1>
           <p className="mt-4 text-lg">
-            I talk about playing in the park, visiting cool places, and having fun at school. I'll share about my playtimes, the cool things I learn, and all the adventures with my family and my dog, Bruno. Every time I do something fun, I'll put it right here for you to read!
+          
+  Hi! I have stories about my tea parties, my dollhouse, my doggy Bruno, and all the super fun things I do. Theyre really, really fun. Lets read them together!
           </p>
         </div>
       </div>
