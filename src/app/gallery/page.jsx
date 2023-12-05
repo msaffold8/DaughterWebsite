@@ -1,17 +1,14 @@
-import Image1 from './image1.jpg';
-import Image2 from './image2.jpg';
-import Image3 from './image3.jpg';
-import Image4 from './image4.jpg';
-import Image5 from './image5.jpg';
-import Image6 from './image6.jpg';
-import Image7 from './image7.jpg';
-import Image8 from './image8.jpg';
-import Image9 from './image9.jpg';
-import Image10 from './image10.jpg';
-import Image11 from './image11.jpg';
-
-
-
+import Image1 from "./galleryphotos/image1.jpg"
+import Image2 from "./galleryphotos/image2.jpg"
+import Image3 from "./galleryphotos/image3.jpg"
+import Image4 from "./galleryphotos/image4.jpg"
+import Image5 from "./galleryphotos/image5.jpg"
+import Image6 from "./galleryphotos/image6.jpg"
+import Image7 from "./galleryphotos/image7.jpg"
+import Image8 from "./galleryphotos/image8.jpg"
+import Image9 from "./galleryphotos/image9.jpg"
+import Image10 from "./galleryphotos/image10.jpg"
+import Image11 from "./galleryphotos/image11.jpg"
 
 import { SimpleLayout } from '@/components/SimpleLayout'
 import Image from 'next/image'
