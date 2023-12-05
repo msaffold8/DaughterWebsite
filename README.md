@@ -1,43 +1,43 @@
-# Spotlight
+# Kids Adventure Website
 
-Spotlight is a [Tailwind UI](https://tailwindui.com) site template built using [Tailwind CSS](https://tailwindcss.com) and [Next.js](https://nextjs.org).
+Welcome to Queen's Website, online space designed for her to explore stories, arts and crafts, and favorite activities.
 
-## Getting started
+## Description
 
-To get started with this template, first install the npm dependencies:
+- Favorite Adventures 
+- Storytelling
+- Projects
+- Favorites
 
-```bash
-npm install
-```
+## Getting Started
 
-Next, create a `.env.local` file in the root of your project and set the `NEXT_PUBLIC_SITE_URL` variable to your site's public URL:
+### Accessing the Website
 
-```
-NEXT_PUBLIC_SITE_URL=https://example.com
-```
+- The website is easily accessible online. No installation is required.
+- Best viewed on modern web browsers like Chrome.
 
-Next, run the development server:
+### Navigation
 
-```bash
-npm run dev
-```
+Children can click on the respective icons to navigate to different sections of the website. Each section will eventually offer a unique set of interactive and educational activities.
 
-Finally, open [http://localhost:3000](http://localhost:3000) in your browser to view the website.
+## Features
 
-## Customizing
+- Content is curated to ensure both fun and learning.
+- Easy for friends to navigate
+- Safe online environment 
 
-You can start editing this template by modifying the files in the `/src` folder. The site will auto-update as you edit these files.
+## Help and Support
 
-## License
+For assistance, suggestions, or feedback, please contact us at [melaquansaffold@gmail.com](mailto:melaquansaffold@gmail.com).
 
-This site template is a commercial product and is licensed under the [Tailwind UI license](https://tailwindui.com/license).
+## Authors
 
-## Learn more
+Mel Saffold 
 
-To learn more about the technologies used in this site template, see the following resources:
 
-- [Tailwind CSS](https://tailwindcss.com/docs) - the official Tailwind CSS documentation
-- [Next.js](https://nextjs.org/docs) - the official Next.js documentation
-- [Headless UI](https://headlessui.dev) - the official Headless UI documentation
-- [MDX](https://mdxjs.com) - the MDX documentation
-# DaughterWebsite
+## Acknowledgments
+
+Special thanks to:
+- Queen for being the creative storyteller and designer.
+
+
