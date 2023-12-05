@@ -10,38 +10,38 @@ import logoPlanetaria from '@/images/logos/planetaria.svg'
 
 const projects = [
   {
-    name: 'Planetaria',
+    name: 'Rainbow Painting Gallery',
     description:
-      'Creating technology to empower civilians to explore space on their own terms.',
-    link: { href: 'http://planetaria.tech', label: 'planetaria.tech' },
+      'I use lots of colors to make big, bright rainbow paintings. They make me happy!',
+    link: { href: 'https://queensaffold.netlify.app', label: 'planetaria.tech' },
     logo: logoPlanetaria,
   },
   {
-    name: 'Animaginary',
+    name: 'Cardboard Castle Fort',
     description:
-      'High performance web animation library, hand-written in optimized WASM.',
-    link: { href: '#', label: 'github.com' },
+      'I built a huge fort out of cardboard boxes. Its my own little castle for me and my dolls!',
+    link: { href: '#', label: 'queensaffold.com' },
     logo: logoAnimaginary,
   },
   {
-    name: 'HelioStream',
+    name: 'My Story Book',
     description:
-      'Real-time video streaming library, optimized for interstellar transmission.',
-    link: { href: '#', label: 'github.com' },
+      'I wrote a story about fairies and drew all the pictures. Its like a real book!',
+    link: { href: '#', label: 'queensaffold.com' },
     logo: logoHelioStream,
   },
   {
-    name: 'cosmOS',
+    name: 'Princess Dress-Up',
     description:
-      'The operating system that powers our Planetaria space shuttles.',
-    link: { href: '#', label: 'github.com' },
+      ' There are princess dresses, shiny shoes, and even a tiara. I dress up and pretend Im in a royal ball!',
+    link: { href: '#', label: 'queensaffold.com' },
     logo: logoCosmos,
   },
   {
-    name: 'OpenShuttle',
+    name: 'My Journal',
     description:
-      'The schematics for the first rocket I designed that successfully made it to orbit.',
-    link: { href: '#', label: 'github.com' },
+      'I have a special journal where I draw and write about cool stuff',
+    link: { href: '#', label: 'queensaffold.com' },
     logo: logoOpenShuttle,
   },
 ]
