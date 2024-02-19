@@ -1,6 +1,7 @@
 # Kids Adventure Website
 
 Welcome to Queen's Website, online space designed for her to explore stories, arts and crafts, and favorite activities.
+View the live site here: https://queensaffold.netlify.app/ 
 
 ## Description
 
